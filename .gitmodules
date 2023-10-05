@@ -1,0 +1,12 @@
+[submodule "note_service"]
+	path = note_service
+	url = https://github.com/EricTruchot/note_service
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/EricTruchot/user_service
+[submodule "front_end_service"]
+	path = front_end_service
+	url = https://github.com/EricTruchot/front_end_service
+[submodule "noteverse_docker"]
+	path = noteverse_docker
+	url = https://github.com/EricTruchot/noteverse_docker
